@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1c0b26f5.css",
+    "main.js": "/react-portfolio/static/js/main.00ab351d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/project2.png": "/react-portfolio/static/media/project2.fc62d9915eec4c6ae059.png",
+    "static/media/profile_pic.png": "/react-portfolio/static/media/profile_pic.9560c8ca9a27f5d27d0c.png",
+    "static/media/project1.png": "/react-portfolio/static/media/project1.774bd176a8204d6de270.png",
+    "static/media/matrix-code.gif": "/react-portfolio/static/media/matrix-code.012ede4c04990bef9596.gif",
+    "static/media/weatherDashboard.png": "/react-portfolio/static/media/weatherDashboard.b933871249e25f030d28.png",
+    "static/media/background.jpg": "/react-portfolio/static/media/background.d91ba978b7f5b521c53c.jpg",
+    "static/media/resume.txt": "/react-portfolio/static/media/resume.3da5ebd25834de2833e9.txt",
+    "index.html": "/react-portfolio/index.html",
+    "main.1c0b26f5.css.map": "/react-portfolio/static/css/main.1c0b26f5.css.map",
+    "main.00ab351d.js.map": "/react-portfolio/static/js/main.00ab351d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0b26f5.css",
+    "static/js/main.00ab351d.js"
+  ]
+}
